@@ -5,7 +5,6 @@ date: 2017-10-06T17:20:34+00:00
 author: Johanna Pfab
 layout: page
 lang: fr
-guid: http://earlyspringexcursion.com/?page_id=118
 ---
 ## [Dali, Dali, Venez découvrir notre chez nous](/china-tours/dali-and-its-surroundings/)
 Bien qu'à première vue Dali semble un peu touristique (moins que Lijiang certe), nous allons vous faire découvrir de manière inédite la ville de Dali au-delà du tourisme, à travers des gens qui y habitent !
