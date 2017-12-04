@@ -6,16 +6,13 @@ author: Johanna Pfab
 layout: page
 guid: http://earlyspringexcursion.com/?page_id=118
 ---
-#### [Dali, Dali, Come to see our new home](/china-tours/dali-and-its-surroundings/)
-
+## [Dali, Dali, Come to see our new home](/china-tours/dali-and-its-surroundings/)
 Though Dali seems at a first glance, quite tourstic (still less than Lijiang), we will show what Dali truly is beyond tourism!
 
-#### [QianDongNan, Back to thousand years ago](/china-tours/guizhou-qiandongnan/)
-
+## [QianDongNan, Back to thousand years ago](/china-tours/guizhou-qiandongnan/)
 Discover the Dong and Miao minorities beyond the beaten path, a good advice, try to come before 2020!
 
-#### [LuGu Lake to YaDin, Pilgrimage way towards the REAL Shambala](/china-tours/lugu-lake-yading/)
-
+## [LuGu Lake to YaDin, Pilgrimage way towards the REAL Shambala](/china-tours/lugu-lake-yading/)
 Yadin, a mountain sanctuary and major Tibetan pilgrimage site comprising three peaks sanctified by the 5th Dalai Lama.
 
 &nbsp;
