@@ -603,6 +603,10 @@ margin: 0 10px;
   height: 0em;
 }
 
+body {
+  background: url("/images/bgm.png") no-repeat bottom center scroll;
+}
+
 
     .nav { 
         position: relative;

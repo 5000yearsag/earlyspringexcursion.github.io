@@ -4,12 +4,15 @@
   <!-- Begin Jekyll SEO tag v2.3.0 -->
 <title>Feed | Early Spring Excursion</title>
 <meta property="og:title" content="Feed" />
+<meta name="author" content="Luche & Johanna" />
 <meta property="og:locale" content="en_US" />
+<meta name="description" content="Your Mysterious China Tour" />
+<meta property="og:description" content="Your Mysterious China Tour" />
 <link rel="canonical" href="http://earlyspringexcursion.com/fr/feed.xml" />
 <meta property="og:url" content="http://earlyspringexcursion.com/feed.xml" />
 <meta property="og:site_name" content="Early Spring Excursion" />
 <script type="application/ld+json">
-{"name":null,"description":null,"author":null,"@type":"WebPage","url":"http://earlyspringexcursion.com/feed.xml","publisher":null,"image":null,"headline":"Feed","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+{"name":null,"description":"Your Mysterious China Tour","author":{"@type":"Person","name":"Luche & Johanna"},"@type":"WebPage","url":"http://earlyspringexcursion.com/feed.xml","publisher":null,"image":null,"headline":"Feed","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <head>
@@ -17,7 +20,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Feed</title>
     <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
-    <meta name="description" content="">
+    <meta name="description" content="Your Mysterious China Tour">
     <link rel="canonical" href="http://earlyspringexcursion.com/fr/feed.xml">
 
     <!-- Custom CSS -->
@@ -62,7 +65,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Early Spring Excursion</title>
-    <description></description>
+    <description>Your Mysterious China Tour</description>
     <link>http://earlyspringexcursion.com/</link>
     <atom:link href="http://earlyspringexcursion.com/fr/feed.xml" rel="self" type="application/rss+xml" />
     
