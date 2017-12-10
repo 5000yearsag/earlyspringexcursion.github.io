@@ -13,21 +13,21 @@ Finalement vous êtes bien arrivés ici. Le train est sur le quai, Dali Express.
 
 - **Nous offrons la connexion la plus rapide du Yunnan**
 
-  *Nos serveurs sont situés à Singapoure, qui sont les plus rapides avec Hong Kong. Mais depuis le 19ème Congrès du Partie Communiste Chinois (PCC), Yunnan Telecom a bloqué plusieurs serveurs hongkongais. Ainsi, les serveurs singapouriens sont devenus le meilleur choix! 
+  *Nos serveurs sont situés à Singapoure, qui sont les plus rapides avec Hong Kong. Mais depuis le 19ème Congrès du Partie Communiste Chinois (PCC), Yunnan Telecom a bloqué plusieurs serveurs hongkongais. Ainsi, les serveurs singapouriens sont devenus le meilleur choix! *
 
 
 - **99.999% Uptime**
 
-  *Depuis le 19ème Congrès du PCC, nous avons remarqué qu'il devenait de plus en plus difficile de garder nos serveurs intacts de toute perturbance de "leurs" systèmes de garde. C'est pour cela que nous offrons un serveur de recours qui garantie une utilisation normale à 99.999%. En cas de problème, j'essaierai de vous répondre dans les dix prochaines minutes si vous me contactez.
+  *Depuis le 19ème Congrès du PCC, nous avons remarqué qu'il devenait de plus en plus difficile de garder nos serveurs intacts de toute perturbance de "leurs" systèmes de garde. C'est pour cela que nous offrons un serveur de recours qui garantie une utilisation normale à 99.999%. En cas de problème, j'essaierai de vous répondre dans les dix prochaines minutes si vous me contactez.*
 
 
 - **Smart switch**
 
-  *Une de nos meilleurs caractéristiques. Vous n'avez aucunement besoin d'allumer et d'éteindre ce serveur car il détermine automatiquement quelles données passent par un vpn ou pas. Waouh...
+  *Une de nos meilleurs caractéristiques. Vous n'avez aucunement besoin d'allumer et d'éteindre ce serveur car il détermine automatiquement quelles données passent par un vpn ou pas. Waouh...*
 
 - **Service en personne si besoin**
 
-Enfin bon, si vous n'habitez pas trop loin de Dali...
+  *Enfin bon, si vous n'habitez pas trop loin de Dali...*
 
 <p style="text-align: center;">
   <strong>50￥/month for maximum 3 devices</strong>
@@ -39,8 +39,8 @@ Enfin bon, si vous n'habitez pas trop loin de Dali...
 
 **Contactez nous seulement par mail: <iliat@me.com>**
 
-_Nous allons vous répondre dès que possible avec une instruction facile à la mise en oeuvre. Aussi faite moi signe si vous avez besoin que je vienne en personne vous aidez. 
-Veuillez ne pas partager ce message sur le web tel que **Wechat**, mais ne le partager qu'avec vos amis proches.
+*Nous allons vous répondre dès que possible avec une instruction facile à la mise en oeuvre. Aussi faite moi signe si vous avez besoin que je vienne en personne vous aidez. 
+Veuillez ne pas partager ce message sur le web tel que **Wechat**, mais ne le partager qu'avec vos amis proches.*
 
 
 #### **Downloads**
