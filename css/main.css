@@ -604,7 +604,7 @@ margin: 0 10px;
 }
 
 body {
-  background: url("/images/bgm.png") no-repeat bottom center scroll;
+  background: url("/images/bgm.png") no-repeat bottom center fixed;
 }
 
 

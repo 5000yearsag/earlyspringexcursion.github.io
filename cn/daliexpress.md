@@ -46,14 +46,16 @@ lang: cn
 <br/>
 #### **下载**
 
-**iOS**: [美国AppStore](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) or [法国AppStore](https://itunes.apple.com/fr/app/shadowrocket/id932747118?mt=8)，由于中国苹果商店已经全面下架，所以如果你没有美国苹果账号，你也可以联系我，我会借给你我的苹果账号。
+**iOS**: [美国AppStore](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)?or?[法国AppStore](https://itunes.apple.com/fr/app/shadowrocket/id932747118?mt=8)，由于中国苹果商店已经全面下架，所以如果你没有美国苹果账号，你也可以联系我，我会借给你我的苹果账号。
 
 **Android**: [SSR-android](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk)
 
 **Windows**: [SSR-windows](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)
 
 **macOS**: [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build2/ShadowsocksX-NG-R8.dmg) (macOS 10.11+)
+<br/>
 
-*P.s. 以上客户端都可以免费使用，除了iOS的app，你需要付费18元。如果你不想付费，那么你也可以联系我，我会借给你我的账号。*
+P.s. 以上客户端都可以免费使用，除了iOS的app，你需要付费18元。如果你不想付费，那么你也可以联系我，我会借给你我的账号。
+<br/>
 
 **大理快车**是基于“Shadowsocks” 的一项稳定服务。这个协议最早有一名中国程序员“clowwindy”于2012年创建。这可以说是目前最好的解决方案，比老的方式“未批嗯”好用太多。到目前为止，没有任何的实际证据表明它可以被检测到。可以说唯一停止的方式是有关人员直接上门查水表。如果事情到了这个地步，那我建议各位考虑移民^_^!

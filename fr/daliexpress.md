@@ -4,29 +4,30 @@ title: Dali Express
 date: 2017-11-28T13:37:01+00:00
 author: Lu
 layout: page
+lang: fr
 guid: http://earlyspringexcursion.com/?page_id=578
 ---
-Struggling with Internet in China? Does it also happens to you to have cravings for a fast Youtube connection or a search engine?
+Des problèmes avec Internet en Chine? Ou cela vous arrive parfois d'avoir des envies d'une connexion rapide à Youtube ou un engin de recherche? 
 
-Well, finally you have found it here. The train is waiting. Dali Express!
+Finalement vous êtes bien arrivés ici. Le train est sur le quai, Dali Express.
 
+- **Nous offrons la connexion la plus rapide du Yunnan**
 
+  *Nos serveurs sont situés à Singapoure, qui sont les plus rapides avec Hong Kong. Mais depuis le 19ème Congrès du Partie Communiste Chinois (PCC), Yunnan Telecom a bloqué plusieurs serveurs hongkongais. Ainsi, les serveurs singapouriens sont devenus le meilleur choix! 
 
-- **We offer top speed in Yunnan**
-
-  *our servers are located in Singapore, it has the best speed except Hong Kong, but  since "Chinese 19th Congress" Yunnan Telecom has blocked a lot of Hong Kong servers.* So the Singapore servers are still our best choice.
 
 - **99.999% Uptime**
 
-  *since "Chinese 19th Congress" we all found it's getting harder to  make our server not disturbed by "them", that's why we also offer a backup server once it goes down which still guarantee 99.999% uptime.* Anyway, for all kind of situations, I try to reply you in 10minutes, if you contact me. 
+  *Depuis le 19ème Congrès du PCC, nous avons remarqué qu'il devenait de plus en plus difficile de garder nos serveurs intacts de toute perturbance de "leurs" systèmes de garde. C'est pour cela que nous offrons un serveur de recours qui garantie une utilisation normale à 99.999%. En cas de problème, j'essaierai de vous répondre dans les dix prochaines minutes si vous me contactez.
+
 
 - **Smart switch**
 
-  *one of the best feature. You don't have to switch on and off all the time, our service determine for you which data should go through vpn. Wow!*
+  *Une de nos meilleurs caractéristiques. Vous n'avez aucunement besoin d'allumer et d'éteindre ce serveur car il détermine automatiquement quelles données passent par un vpn ou pas. Waouh...
 
-- **face to face support if necessary**
+- **Service en personne si besoin**
 
-  well... I hope you are not living far from Dali Town.
+Enfin bon, si vous n'habitez pas trop loin de Dali...
 
 <p style="text-align: center;">
   <strong>50￥/month for maximum 3 devices</strong>
@@ -36,13 +37,15 @@ Well, finally you have found it here. The train is waiting. Dali Express!
   <strong>Free 1 Month Testing Period until you get satisfied!</strong>
 </p>
 
-**Contact us only per email: <iliat@me.com>**
+**Contactez nous seulement par mail: <iliat@me.com>**
 
-_We will reply you asap with an easy instruction, also tell me if you need a face to face support. __Please don&#8217;t spread this on the open Internet, such as **Wechat**, only share with your close friends._
+_Nous allons vous répondre dès que possible avec une instruction facile à la mise en oeuvre. Aussi faite moi signe si vous avez besoin que je vienne en personne vous aidez. 
+Veuillez ne pas partager ce message sur le web tel que **Wechat**, mais ne le partager qu'avec vos amis proches.
+
 
 #### **Downloads**
 
-**iOS**: [US appstore](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) or [FR appstore](https://itunes.apple.com/fr/app/shadowrocket/id932747118?mt=8), for other countries, please search &#8220;Shadowrocket&#8221; in your own appstore. 
+**iOS**: [US appstore](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) or [FR appstore](https://itunes.apple.com/fr/app/shadowrocket/id932747118?mt=8), pour les autres pays, veuillez chercher &#8220;Shadowrocket&#8221; dans votre Apple store
 
 **Android**: [SSR-android](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk)
 
@@ -50,6 +53,7 @@ _We will reply you asap with an easy instruction, also tell me if you need a fac
 
 **macOS**: [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build2/ShadowsocksX-NG-R8.dmg) (macOS 10.11+)
 
-P.s. these clients are all free to use **except** the one on iOS, you have to buy it at 2.99 USD. But if you don't want to purchase it, you can ask for my appstore account to share with you.
+P.s. tous ces clients sont gratuits d'utilisation **à l'exception** d'un sur iOS, qu'il vous faut acheter pour 2.99 USD. Mais si vous ne voulez pas l'acheter je peux partager mon Apple store avec vous.
 
-_**Dali Express** is based on a quite established technique called “Shadowsocks”, which was created in 2012 by a Chinese programmer named “clowwindy”. It’s the best solution right now, and much, much better than the old fashion “V.P.N”. As far as I know, this is technically hard to be detected by government up to 2017. And the only way they can stop this is they come to knock your door. If things go like this, we better leave from China, go back to our home ^__^ !
+_**Dali Express** est basé sur une technique bien établie appelée "Shadowsocks", créée en 2012 par un programmeur chinois connu sous le nom de "clowwindy". C'est pour le moment la meilleure solution, bien meilleur encore que la version vpn déjà passée de mode. A ma connaissance, il est difficile d'être détecté par le gouvernement jusqu'en 2017. Et le seul moyen d'arrêter cela serait de venir frapper à la porte.
+Si cela continue comme ça, mieux quitter la Chine et rentrer chez nous ^__^ ! 
