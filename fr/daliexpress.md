@@ -13,7 +13,7 @@ Finalement vous êtes bien arrivés ici. Le train est sur le quai, Dali Express.
 
 - **Nous offrons la connexion la plus rapide du Yunnan**
 
-  *Nos serveurs sont situés à Singapoure, qui sont les plus rapides avec Hong Kong. Mais depuis le 19ème Congrès du Partie Communiste Chinois (PCC), Yunnan Telecom a bloqué plusieurs serveurs hongkongais. Ainsi, les serveurs singapouriens sont devenus le meilleur choix! *
+  *Nos serveurs sont situés à Singapoure, qui sont les plus rapides avec Hong Kong. Mais depuis le 19ème Congrès du Partie Communiste Chinois (PCC), Yunnan Telecom a bloqué plusieurs serveurs hongkongais. Ainsi, les serveurs singapouriens sont devenus le meilleur choix!*
 
 
 - **99.999% Uptime**
@@ -28,7 +28,8 @@ Finalement vous êtes bien arrivés ici. Le train est sur le quai, Dali Express.
 - **Service en personne si besoin**
 
   *Enfin bon, si vous n'habitez pas trop loin de Dali...*
-
+<br/>
+<br/>
 <p style="text-align: center;">
   <strong>50￥/month for maximum 3 devices</strong>
 </p>
@@ -36,13 +37,13 @@ Finalement vous êtes bien arrivés ici. Le train est sur le quai, Dali Express.
 <p style="text-align: center;">
   <strong>Free 1 Month Testing Period until you get satisfied!</strong>
 </p>
-
+<br/>
 **Contactez nous seulement par mail: <iliat@me.com>**
 
 *Nous allons vous répondre dès que possible avec une instruction facile à la mise en oeuvre. Aussi faite moi signe si vous avez besoin que je vienne en personne vous aidez. 
 Veuillez ne pas partager ce message sur le web tel que **Wechat**, mais ne le partager qu'avec vos amis proches.*
-
-
+<br/>
+<br/>
 #### **Downloads**
 
 **iOS**: [US appstore](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) or [FR appstore](https://itunes.apple.com/fr/app/shadowrocket/id932747118?mt=8), pour les autres pays, veuillez chercher &#8220;Shadowrocket&#8221; dans votre Apple store

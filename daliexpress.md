@@ -27,7 +27,8 @@ Well, finally you have found it here. The train is waiting. Dali Express!
 - **face to face support if necessary**
 
   well... I hope you are not living far from Dali Town.
-
+<br/>
+<br/>
 <p style="text-align: center;">
   <strong>50￥/month for maximum 3 devices</strong>
 </p>
@@ -35,11 +36,12 @@ Well, finally you have found it here. The train is waiting. Dali Express!
 <p style="text-align: center;">
   <strong>Free 1 Month Testing Period until you get satisfied!</strong>
 </p>
-
+<br/>
 **Contact us only per email: <iliat@me.com>**
 
 _We will reply you asap with an easy instruction, also tell me if you need a face to face support. __Please don&#8217;t spread this on the open Internet, such as **Wechat**, only share with your close friends._
-
+<br/>
+<br/>
 #### **Downloads**
 
 **iOS**: [US appstore](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) or [FR appstore](https://itunes.apple.com/fr/app/shadowrocket/id932747118?mt=8), for other countries, please search &#8220;Shadowrocket&#8221; in your own appstore. 
